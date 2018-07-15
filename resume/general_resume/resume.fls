@@ -248,6 +248,8 @@ INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi7.tfm
 INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi5.tfm
 INPUT cv-sections/education.tex
 INPUT cv-sections/education.tex
+INPUT cv-sections/skills.tex
+INPUT cv-sections/skills.tex
 INPUT cv-sections/publications.tex
 INPUT cv-sections/publications.tex
 INPUT cv-sections/professional_experience.tex

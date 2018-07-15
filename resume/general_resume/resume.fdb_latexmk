@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1507822000 "resume.xdv" "resume.pdf" "resume" 1507822000
-  "resume.xdv" 1507822000 41660 809345c9d4c97869a13bd78010894b23 "xelatex"
+["xdvipdfmx"] 1531637581 "resume.xdv" "resume.pdf" "resume" 1531637582
+  "resume.xdv" 1531637581 39540 24007418099c437e7ee862654e130493 "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1507821998 "resume.tex" "resume.xdv" "resume" 1507822000
+["xelatex"] 1531637579 "resume.tex" "resume.xdv" "resume" 1531637582
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1480098701 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -145,17 +145,18 @@
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1495593504 3678517 cf88ab0d543b48a512d7ba85d215fe58 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "awesome-cv.cls" 1507821995 26108 b797c224e34e02e293a884b530c9bdc5 ""
-  "cv-sections/education.tex" 1507820853 1067 ca384b6cbb98764c59dc7ccc4307cc00 ""
-  "cv-sections/professional_experience.tex" 1507821882 2474 f8e330b4022442e8f380aa6c4e1af7c0 ""
-  "cv-sections/project_experience.tex" 1507821880 2487 6f05398019e7d478e7bb2e14d20d5812 ""
+  "awesome-cv.cls" 1523219717 26108 99bc88a6db6be0f4b735f6fd64968b17 ""
+  "cv-sections/education.tex" 1531629746 1091 5c4234df118079910811c4761c87dcaa ""
+  "cv-sections/professional_experience.tex" 1531632047 2537 a455e87db1956198f76139af8d638e12 ""
+  "cv-sections/project_experience.tex" 1531631784 2509 05787c3d6da6d63ce390fa43a3ed7c5a ""
   "cv-sections/publications.tex" 1507099445 898 8c22d6b0fe1619333414fda4ab176e71 ""
+  "cv-sections/skills.tex" 1531637561 893 78ed3e79aca1f4c3c0c80d481c61d4f9 ""
   "fontawesome.sty" 1451543524 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume.aux" 1507822000 665 82c456479ed516bc5a94b04c48282691 ""
-  "resume.out" 1507822000 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "resume.tex" 1507821998 3378 3a5a4d9d467462261c7f1d4fd6d139cb ""
+  "resume.aux" 1531637581 665 82c456479ed516bc5a94b04c48282691 ""
+  "resume.out" 1531637581 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "resume.tex" 1531637579 3432 4912954561007800e6277e3fa0ede4a8 ""
   (generated)
   "resume.aux"
   "resume.xdv"
-  "resume.out"
   "resume.log"
+  "resume.out"
