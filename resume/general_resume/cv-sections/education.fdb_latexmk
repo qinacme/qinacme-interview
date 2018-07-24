@@ -3,12 +3,12 @@
   "education.xdv" 0 -1 0 "xelatex"
   (generated)
   "education.pdf"
-["xelatex"] 1531629746 "education.tex" "education.xdv" "education" 1531629747
+["xelatex"] 1532406561 "education.tex" "education.xdv" "education" 1532406561
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1495593504 3678517 cf88ab0d543b48a512d7ba85d215fe58 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
   "education.aux" 1507247231 8 a94a2480d3289e625eea47cd1b285758 ""
-  "education.tex" 1531629746 1091 5c4234df118079910811c4761c87dcaa ""
+  "education.tex" 1532406560 1077 10163eda12618dfa316f40ffe9402950 ""
   (generated)
-  "education.xdv"
   "education.log"
+  "education.xdv"
