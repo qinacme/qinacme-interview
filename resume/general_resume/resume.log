@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  23 JUL 2018 21:33
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  4 AUG 2018 11:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -891,14 +891,14 @@ LaTeX Info: Redefining \selectfont on input line 73.
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(34.14322pt, 546.00856pt, 34.14322pt)
+* h-part:(L,W,R)=(22.76228pt, 568.77043pt, 22.76228pt)
 * v-part:(T,H,B)=(14.22636pt, 775.05316pt, 5.69046pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=546.00856pt
+* \textwidth=568.77043pt
 * \textheight=775.05316pt
-* \oddsidemargin=-38.12677pt
-* \evensidemargin=-38.12677pt
+* \oddsidemargin=-49.5077pt
+* \evensidemargin=-49.5077pt
 * \topmargin=-95.04362pt
 * \headheight=12.0pt
 * \headsep=25.0pt
@@ -1019,7 +1019,7 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not availa
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 9.0pt on input line 20.
 ) (./cv-sections/skills.tex
-Overfull \hbox (79.80092pt too wide) in alignment at lines 11--28
+Overfull \hbox (59.6646pt too wide) in alignment at lines 11--28
 [] [] 
  []
 
@@ -1035,10 +1035,10 @@ Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 90.
 Here is how much of TeX's memory you used:
  36747 strings out of 493005
  718455 string characters out of 6134596
- 909161 words of memory out of 5000000
+ 910151 words of memory out of 5000000
  40243 multiletter control sequences out of 15000+600000
  6074 words of font info for 72 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  72i,11n,89p,10382b,499s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on resume.xdv (1 page, 39760 bytes).
+Output written on resume.xdv (1 page, 42032 bytes).

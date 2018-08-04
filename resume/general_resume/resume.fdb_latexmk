@@ -1,9 +1,9 @@
 # Fdb version 3
-["xdvipdfmx"] 1532406822 "resume.xdv" "resume.pdf" "resume" 1532406822
-  "resume.xdv" 1532406822 39760 dc34f59e621cb988624e238e7882f39d "xelatex"
+["xdvipdfmx"] 1533406010 "resume.xdv" "resume.pdf" "resume" 1533406010
+  "resume.xdv" 1533406010 42032 d0b0067e7e0b3a098bedd45e9c47004b "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1532406820 "resume.tex" "resume.xdv" "resume" 1532406822
+["xelatex"] 1533406008 "resume.tex" "resume.xdv" "resume" 1533406010
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1480098689 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1480098701 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -145,18 +145,18 @@
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017/texmf-var/web2c/xetex/xelatex.fmt" 1495593504 3678517 cf88ab0d543b48a512d7ba85d215fe58 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "awesome-cv.cls" 1523219717 26108 99bc88a6db6be0f4b735f6fd64968b17 ""
+  "awesome-cv.cls" 1533406003 26106 f46e731b963722684f1c5b52a3d4011c ""
   "cv-sections/education.tex" 1532406560 1077 10163eda12618dfa316f40ffe9402950 ""
-  "cv-sections/professional_experience.tex" 1532406807 2571 852adefd7615e42f72ec96389d30d852 ""
+  "cv-sections/professional_experience.tex" 1533405648 2820 c5ac0fc8b6c26ee352cad8172f57c523 ""
   "cv-sections/project_experience.tex" 1531631784 2509 05787c3d6da6d63ce390fa43a3ed7c5a ""
   "cv-sections/publications.tex" 1507099445 898 8c22d6b0fe1619333414fda4ab176e71 ""
-  "cv-sections/skills.tex" 1532406629 895 579f05cb11dbfc97abfd008761d07eb8 ""
+  "cv-sections/skills.tex" 1533405777 878 674f1345d4481441f19cf5f712302ce9 ""
   "fontawesome.sty" 1451543524 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume.aux" 1532406822 665 82c456479ed516bc5a94b04c48282691 ""
-  "resume.out" 1532406822 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "resume.tex" 1532406820 3433 4e01304280c3edb6c818e56612c56e45 ""
+  "resume.aux" 1533406010 665 82c456479ed516bc5a94b04c48282691 ""
+  "resume.out" 1533406010 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "resume.tex" 1533406008 3431 60f85f0a4c73bdb7629c047dfdb751ba ""
   (generated)
-  "resume.out"
-  "resume.aux"
   "resume.log"
+  "resume.aux"
   "resume.xdv"
+  "resume.out"
