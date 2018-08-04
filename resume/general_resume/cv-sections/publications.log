@@ -1,15 +1,33 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.5.23)  3 OCT 2017 23:44
-entering extended mode
- restricted \write18 enabled.
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  4 AUG 2018 15:55
+ restricted system commands enabled.
  file:line:error style messages enabled.
- %&-line parsing enabled.
 **publications.tex
 (./publications.tex
-LaTeX2e <2017-04-15>
-Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+LaTeX2e <2018-04-01> patch level 2
+Lua module: luaotfload-main 2017/01/29 2.80001 OpenType layout system.
+Lua module: lualibs 2017-02-01 2.5 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2017-02-01 2.5 ConTeXt Lua libraries -- extended collection.(using write cache: /Users/heqin/Library/texlive/2018/texmf-var/luatex-cache/generic)(using read cache: /usr/local/texlive/2018/texmf-var/luatex-cache/generic /Users/heqin/Library/texlive/2018/texmf-var/luatex-cache/generic)
+luaotfload | conf : Root cache directory is /Users/heqin/Library/texlive/2018/texmf-var/luatex-cache/generic/names.
+luaotfload | init : Loading fontloader “fontloader-2017-02-11.lua” from kpse-resolved path “/usr/local/texlive/2018/texmf-dist/tex/luatex/luaotfload/fontloader-2017-02-11.lua”.
+Lua-only attribute luaotfload@state = 1
+Lua-only attribute luaotfload@noligature = 2
+Lua-only attribute luaotfload@syllabe = 3
+luaotfload | init : Context OpenType loader version “3.027”
+Inserting `luaotfload.node_processor' at position 1 in `pre_linebreak_filter'.
+Inserting `luaotfload.node_processor' at position 1 in `hpack_filter'.
+Inserting `luaotfload.define_font' at position 1 in `define_font'.
+Lua-only attribute luaotfload_color_attribute = 4
+luaotfload | conf : Root cache directory is /Users/heqin/Library/texlive/2018/texmf-var/luatex-cache/generic/names.
+Inserting `luaotfload.aux.set_sscale_dimens' at position 1 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch_font'.
+Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
+Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
+Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
+luaotfload | main : initialization completed in 0.120 seconds
+Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 ./publications.tex:5: Undefined control sequence.
 l.5 \cvsection
-              {Publication}
+            {Publication}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -24,24 +42,13 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.5 \cvsection{P
-                ublication}
+              ublication}
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no P in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no b in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 5--6
-[] 
+[]Publication 
  []
 
 
@@ -52,14 +59,14 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.11 \begin{cventries}
-                      
+                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ./publications.tex:15: Undefined control sequence.
 l.15 \cventry
-             
+           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -74,88 +81,10 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.16 {F
-       irst Translator} % Role
+     irst Translator} % Role
 You're in trouble here.  Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no F in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no T in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no , in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no ( in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no V in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no ) in font nullfont!
-Missing character: There is no C in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no E in font nullfont!
-Missing character: There is no x in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no 2 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 8 in font nullfont!
 
 ./publications.tex:21: LaTeX Error: Environment cvitems undefined.
 
@@ -164,14 +93,14 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.21 \begin{cvitems}
-                    
+                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
 Overfull \hbox (20.0pt too wide) in paragraph at lines 16--22
-[]
+[]First
  []
 
 
@@ -182,112 +111,10 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.22 \item {
-            Chinese version of the popular \href{https://www.amazon.com/Lear...
+          Translated 32 out of 41 chapters. Revised the whole book for 3 rou...
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-Missing character: There is no C in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no v in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no f in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no l in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-./publications.tex:22: Undefined control sequence.
-l.22 \item {Chinese version of the popular \href
-                                                {https://www.amazon.com/Lear...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-Missing character: There is no h in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no s in font nullfont!
-Missing character: There is no : in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no w in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no z in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no . in font nullfont!
-Missing character: There is no c in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no m in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no e in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no i in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no g in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no P in font nullfont!
-Missing character: There is no y in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no o in font nullfont!
-Missing character: There is no n in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no h in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no M in font nullfont!
-Missing character: There is no a in font nullfont!
-Missing character: There is no r in font nullfont!
-Missing character: There is no k in font nullfont!
-Missing character: There is no - in font nullfont!
-Missing character: There is no L in font nullfont!
-Missing character: There is no u in font nullfont!
-Missing character: There is no t in font nullfont!
-Missing character: There is no z in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no d in font nullfont!
-Missing character: There is no p in font nullfont!
-Missing character: There is no / in font nullfont!
-Missing character: There is no 1 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 4 in font nullfont!
-Missing character: There is no 9 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 5 in font nullfont!
-Missing character: There is no 7 in font nullfont!
-Missing character: There is no 3 in font nullfont!
-Missing character: There is no 0 in font nullfont!
-Missing character: There is no . in font nullfont!
 
 ./publications.tex:23: LaTeX Error: \begin{document} ended by \end{cvitems}.
 
@@ -296,30 +123,10 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.23 \end{cvitems}
-                  
+                
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
-
-
-Overfull \hbox (28.38pt too wide) in paragraph at lines 22--25
-\TU/lmr/m/it/10 Learn-
- []
-
-
-Overfull \hbox (13.29pt too wide) in paragraph at lines 22--25
-\TU/lmr/m/it/10 ing
- []
-
-
-Overfull \hbox (33.87pt too wide) in paragraph at lines 22--25
-\TU/lmr/m/it/10 Python,
- []
-
-
-Overfull \hbox (17.0pt too wide) in paragraph at lines 22--25
-\TU/lmr/m/it/10 5Ed
- []
 
 
 ./publications.tex:28: LaTeX Error: \begin{document} ended by \end{cventries}.
@@ -329,7 +136,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.28 \end{cventries}
-                    
+                  
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -337,16 +144,17 @@ or  <return>  to continue without it.
 )
 ! Emergency stop.
 <*> publications.tex
-                    
+                 
 *** (job aborted, no legal \end found)
 
- 
-Here is how much of TeX's memory you used:
- 12 strings out of 493005
- 190 string characters out of 6134596
- 61634 words of memory out of 5000000
- 4083 multiletter control sequences out of 15000+600000
- 3648 words of font info for 15 fonts, out of 8000000 for 9000
- 1348 hyphenation exceptions out of 8191
- 13i,1n,8p,178b,98s stack positions out of 5000i,500n,10000p,200000b,80000s
-No pages of output.
+
+
+Here is how much of LuaTeX's memory you used:
+ 10 strings out of 494413
+ 100000,89155 words of node,token memory allocated 1741 words of node memory still in use:
+   8 hlist, 3 local_par, 1 dir, 42 glue, 6 penalty, 147 glyph, 16 attribute, 35 glue_spec, 16 attribute_list nodes
+   avail lists: 2:2,3:1,4:15,5:3,7:16,10:14
+ 4303 multiletter control sequences out of 65536+600000
+ 14 fonts using 591559 bytes
+ 7i,1n,7p,155b,41s stack positions out of 5000i,500n,10000p,200000b,100000s
+!  ==> Fatal error occurred, no output PDF file produced!
