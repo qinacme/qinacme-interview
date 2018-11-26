@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1533424039 "resume.tex" "resume.pdf" "resume" 1533424043
+["lualatex"] 1534226040 "resume.tex" "resume.pdf" "resume" 1534226045
   "/Users/heqin/Library/texlive/2018/texmf-var/luatex-cache/generic/fonts/otl/fontawesome.luc" 1533423176 65938 5d0fa6690d0b4f3acd42e8406f9c0499 ""
   "/Users/heqin/Library/texlive/2018/texmf-var/luatex-cache/generic/fonts/otl/latinmodern-math.luc" 1533423185 623610 c868ea0765ec204411e380ff820c9d48 ""
   "/Users/heqin/Library/texlive/2018/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1533423175 136017 73339eaa53d5ee9fcd41cd40e024cb6a ""
@@ -206,7 +206,7 @@
   "/usr/local/texlive/2018/texmf-var/web2c/luatex/lualatex.fmt" 1523934521 1360357 209de5184a1007f399e83ec8ebc7a3d8 ""
   "awesome-cv.cls" 1533406102 26106 f46e731b963722684f1c5b52a3d4011c ""
   "cv-sections/education.tex" 1533406102 1077 10163eda12618dfa316f40ffe9402950 ""
-  "cv-sections/professional_experience.tex" 1533423352 2824 993833c1ee6a8fb7b644ff1548153b7c ""
+  "cv-sections/professional_experience.tex" 1534225999 2814 170de81f8572efd50652e0672b991e92 ""
   "cv-sections/project_experience.tex" 1531638180 2509 05787c3d6da6d63ce390fa43a3ed7c5a ""
   "cv-sections/publications.tex" 1533423311 969 a7cfde6ee526f5ccd7cd18b95e41a80f ""
   "cv-sections/skills.tex" 1533406102 878 674f1345d4481441f19cf5f712302ce9 ""
@@ -216,11 +216,11 @@
   "fonts/Roboto-Italic.ttf" 1530924754 160736 93b13a58dedeebe519846555a543523b ""
   "fonts/Roboto-Regular.ttf" 1530924754 158604 5673da52c98bb6cb33ada5aaf649703e ""
   "fonts/Roboto-Thin.ttf" 1530924754 122512 14147ca3288fa08b850d029193150722 ""
-  "resume.aux" 1533424043 699 3b0b1034aaf0dece7590714f6deffef5 ""
-  "resume.out" 1533424043 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "resume.tex" 1533424039 3442 276a796536e82bd8b8eb02ba4df62298 ""
+  "resume.aux" 1534226045 699 3b0b1034aaf0dece7590714f6deffef5 ""
+  "resume.out" 1534226045 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "resume.tex" 1534226040 3443 4c2ba291b9d48c1d997b1323da4e897a ""
   (generated)
   "resume.out"
-  "resume.aux"
   "resume.pdf"
+  "resume.aux"
   "resume.log"

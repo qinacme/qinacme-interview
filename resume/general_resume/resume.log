@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  4 AUG 2018 16:07
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  13 AUG 2018 22:54
  restricted system commands enabled.
  file:line:error style messages enabled.
 **resume.tex
@@ -23,7 +23,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.116 seconds
+luaotfload | main : initialization completed in 0.162 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 (./awesome-cv.cls
 Document Class: awesome-cv 2017/02/05 v1.6.1 Awesome Curriculum Vitae Class
@@ -1220,12 +1220,12 @@ Here is how much of LuaTeX's memory you used:
  125171,1144653 words of node,token memory allocated
  538 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 79 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 1:3,2:1248,3:224,4:191,5:607,6:97,7:4549,8:143,9:437,10:12,11:269
+   avail lists: 1:2,2:1248,3:224,4:191,5:605,6:97,7:4538,8:143,9:437,10:12,11:268
  42010 multiletter control sequences out of 65536+600000
  79 fonts using 22505127 bytes
  72i,11n,89p,908b,462s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2018/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Light.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-LightIt.otf></usr/local/texlive/2018/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-Italic.ttf></usr/local/texlive/2018/texmf-dist/fonts/opentype/adobe/sourcesanspro/SourceSansPro-Regular.otf><./fonts/Roboto-Bold.ttf><./fonts/Roboto-Thin.ttf>
-Output written on resume.pdf (1 page, 45273 bytes).
+Output written on resume.pdf (1 page, 45264 bytes).
 
 PDF statistics: 88 PDF objects out of 1000 (max. 8388607)
  57 compressed objects within 1 object stream

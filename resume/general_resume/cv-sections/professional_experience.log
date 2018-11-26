@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  4 AUG 2018 15:55
+This is LuaTeX, Version 1.07.0 (TeX Live 2018)  (format=lualatex 2018.4.16)  13 AUG 2018 22:53
  restricted system commands enabled.
  file:line:error style messages enabled.
 **professional_experience.tex
@@ -23,7 +23,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.123 seconds
+luaotfload | main : initialization completed in 0.246 seconds
 Babel <3.18> and hyphenation patterns for 1 language(s) loaded.
 ./professional_experience.tex:5: Undefined control sequence.
 l.5 \cvsection
@@ -135,7 +135,7 @@ Type  H <return>  for immediate help.
  ...                                              
                                                   
 l.24 \item {
-          Implementing a Python microservice to consume data from Spark pipe...
+          Implementing a Python microservice to serve Spark query jobs.}
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
@@ -403,8 +403,8 @@ or  <return>  to continue without it.
 
 Here is how much of LuaTeX's memory you used:
  10 strings out of 494413
- 100000,89155 words of node,token memory allocated 12213 words of node memory still in use:
-   42 hlist, 3 disc, 14 local_par, 1 dir, 306 glue, 37 penalty, 1273 glyph, 77 attribute, 35 glue_spec, 77 attribute_list nodes
+ 100000,89155 words of node,token memory allocated 12143 words of node memory still in use:
+   42 hlist, 3 disc, 14 local_par, 1 dir, 305 glue, 37 penalty, 1264 glyph, 77 attribute, 35 glue_spec, 77 attribute_list nodes
    avail lists: 2:2,3:1,4:34,5:3,7:18,8:1,10:33
  4303 multiletter control sequences out of 65536+600000
  14 fonts using 591559 bytes
